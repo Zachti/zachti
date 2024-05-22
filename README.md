@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/zach-tirosh-732a18252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zach tirosh" height="30" width="40" /></a>
  <a href="mailto:zachti@mta.ac.il" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/104992892/223945350-dea569fa-1854-4801-b741-b6ee5223bcab.png" alt="Email Icon" height="30" width="40" />
+    <img align="center" src="https://user-images.githubusercontent.com/104992892/223945350-dea569fa-1854-4801-b741-b6ee5223bcab.png" alt="Email Icon" height="40" width="40" />
   </a>
 </p>
 

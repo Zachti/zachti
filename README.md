@@ -41,6 +41,8 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 </div>
+<a href="https://www.elastic.co/kibana/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" height="50" /></a>  
+</div>
 
 </td><td valign="top" width="33%">
 
@@ -63,9 +65,14 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zachti&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachti&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zachti&show_icons=true&count_private=true&hide_border=true&bg_color=000000" align="center" />
+</div>
 
-<br/>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachti&hide_border=true&layout=compact&bg_color=000000" align="center" />
+</div>
+
+<br/>

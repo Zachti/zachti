@@ -16,6 +16,16 @@
 <a href="https://linkedin.com/in/zach-tirosh-732a18252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zach tirosh" height="30" width="40" /></a>
 </p>
 
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <a href="mailto:zachti@mta.ac.il" style="display: flex; align-items: center; text-decoration: none; color: white;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-mail">
+      <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+      <polyline points="22,6 12,13 2,6"></polyline>
+    </svg>
+    <span style="margin-left: 0.5rem;">zachti@mta.ac.il</span>
+  </a>
+</div>
+
 ### Backend  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  

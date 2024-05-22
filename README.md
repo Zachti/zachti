@@ -68,11 +68,11 @@
 ## Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zachti&show_icons=true&count_private=true&hide_border=true&bg_color=000000" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zachti&show_icons=true&count_private=true&hide_border=true&bg_color=000000&text_color=ffffff" align="center" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachti&hide_border=true&layout=compact&bg_color=000000" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachti&hide_border=true&layout=compact&bg_color=000000&text_color=ffffff" align="center" />
 </div>
 
 <br/>

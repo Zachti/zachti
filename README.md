@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **NestJS , GraphQL, RestAPI**
 
-- 📫 How to reach me **zachti@mta.ac.il**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
